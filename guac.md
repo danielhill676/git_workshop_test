@@ -6,4 +6,4 @@
 - paprika
 - black pepper
 ## Instructions
-
+- put them in a bowl
