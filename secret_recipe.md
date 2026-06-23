@@ -3,5 +3,5 @@
 - classified
 ## Method
 - You know what to do
-# actually its fine
-- share it
+# damn it all
+- It must remain confidential
